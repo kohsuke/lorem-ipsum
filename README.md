@@ -1,4 +1,4 @@
-lorem ipsum
+Lorem Ipsum
 ===========
 
 orem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo erat non egestas sodales. Curabitur aliquam velit ut quam posuere, quis lacinia turpis pharetra. Phasellus aliquet ligula diam, id vulputate arcu varius at. Ut elit lectus, venenatis nec sem id, rhoncus viverra elit. Nunc facilisis faucibus diam, pellentesque ultricies mauris semper eget. Curabitur in rhoncus massa. Nullam consectetur eros dapibus quam tincidunt, at condimentum augue volutpat. Aenean pharetra lobortis felis a placerat. Maecenas tellus felis, pharetra non tincidunt sit amet, consectetur id massa.
